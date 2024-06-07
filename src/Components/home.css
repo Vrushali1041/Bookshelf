@@ -1,0 +1,31 @@
+/* .details_card {
+    display: flex;
+    flex-direction: row !important;
+} */
+
+
+/* searchbar */
+.form {
+    position: relative;
+}
+.form .icons {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    color: #9ca3af;
+}
+.form-input {
+    text-indent: 33px;
+}
+.form-input:focus {
+    box-shadow: none;
+}
+
+/* bookshelf */
+.titles{
+font-weight: 700;
+}
+
+.result{
+    font-weight: 400;
+}
