@@ -85,7 +85,7 @@ This React application allows users to search for books using the Open Library A
 
 ## Live Demo
 
-Check out the live demo [here](YOUR_NETLIFY_URL).
+Check out the live demo [here](https://shiny-syrniki-87f14e.netlify.app/).
 
 ## Getting Started
 
