@@ -68,3 +68,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Personal Bookshelf
+
+## Description
+
+This React application allows users to search for books using the Open Library API and maintain a personal bookshelf using localStorage.
+
+## Features
+
+- Search for books in real-time using the Open Library API.
+- Add books to a personal bookshelf.
+- Persistent bookshelf using localStorage.
+
+## Live Demo
+
+Check out the live demo [here](YOUR_NETLIFY_URL).
+
+## Getting Started
+
+Follow these instructions to set up the project locally.
+
+### Prerequisites
+
+- Node.js (v12 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Vrushali1041/Bookshelf.git 
+   
+2. **Install dependencies:**
+npm install
+
+npm start
+
+
+
